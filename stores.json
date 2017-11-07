@@ -197,22 +197,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.148743, 30.471871
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "category": "store",
-        "hours": "8am - 9:30pm",
-        "description": "Fresh coffee and delicious cakes in an snug cafe. We're part of a larger chain of patisseries and cafes.",
-        "name": "Mel Art Flair",
-        "phone": "+44 1717 17171"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.311576, 29.891866
         ]
       },
@@ -220,7 +204,7 @@
       "properties": {
         "category": "store",
         "hours": "8am - 9:30pm",
-        "description": "Fresh coffee and delicious cakes in an snug cafe. We're part of a larger chain of patisseries and cafes.",
+        "description": "http://www.spanishmilitaryhospitalmuseum.com/",
         "name": "Spanish Military Hospital Museum",
         "phone": "+44 1717 17171"
       }
