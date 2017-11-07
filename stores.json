@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.837319, 35.977683
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "store",
+        "hours": "10am - 6pm",
+        "description": "http://www.bouldercitysoap.com/",
+        "name": "Boulder City Soap & Candle Company",
+        "phone": "+44 20 1234 5678"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.019121, 41.105107
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "store",
+        "hours": "10am - 6pm",
+        "description": "https://vegansoapexchange.com/",
+        "name": "Vegan Soap Exchange",
+        "phone": "+44 117 121 2121"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.456366, 34.911711
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "store",
+        "hours": "10am - 6pm",
+        "description": "https://www.facebook.com/silverwingessentials/",
+        "name": "Silver Wing Essentials",
+        "phone": "+44 1603 123456"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.451485, 40.241668
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "store",
+        "hours": "10am - 6pm",
+        "description": "http://www.intouchmassage.info/",
+        "name": "In Touch Massage",
+        "phone": "+44 1202 343434"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.771506, 35.591545
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "store",
+        "hours": "10am - 6pm",
+        "description": "http://www.wellspringorganicsalon.com/",
+        "name": "Wellspring Organic Salon",
+        "phone": "+44 151 444 4444"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.799507, 35.584154
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "store",
+        "hours": "10am - 6pm",
+        "description": "INSERT DANIELLE'S WEBSITE HERE",
+        "name": "Danielle Almeyda's Untitled Company",
+        "phone": "+44 5555 55555"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.311984, 25.725594
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "store",
+        "hours": "10am - 6pm",
+        "description": "http://www.soulllsoul.com/",
+        "name": "Soul II Soul",
+        "phone": "+44 29 6666 6666"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.925401, 40.010801
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "store",
+        "hours": "8am - 9:30pm",
+        "description": "http://www.naturesbouquet.com/",
+        "name": "Nature's Bouquet Natural Soaps",
+        "phone": "+44 7777 777777"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.628687, 32.699502
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "store",
+        "hours": "8am - 9:30pm",
+        "description": "https://www.barenakedsoapco.com/",
+        "name": "Bare Naked Soap Company",
+        "phone": "+44 8888 88888"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.054492, 35.931623
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "store",
+        "hours": "8am - 9:30pm",
+        "description": "https://ncbirthcenter.org/boutique/",
+        "name": "Women's Birth and Wellness Center Boutique",
+        "phone": "+44 1010 101010"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.895006, 41.849697
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "store",
+        "hours": "8am - 9:30pm",
+        "description": "INSERT ZORA'S WEBSITE HERE",
+        "name": "Zora Penafiel's Untitled Company",
+        "phone": "+44 1313 131313"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.504248, 38.890135
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "store",
+        "hours": "8am - 9:30pm",
+        "description": "https://www.facebook.com/CoCoShea/",
+        "name": "Coco Shea",
+        "phone": "+44 1414 141414"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.148743, 30.471871
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "store",
+        "hours": "8am - 9:30pm",
+        "description": "Fresh coffee and delicious cakes in an snug cafe. We're part of a larger chain of patisseries and cafes.",
+        "name": "Mel Art Flair",
+        "phone": "+44 1717 17171"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311576, 29.891866
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "store",
+        "hours": "8am - 9:30pm",
+        "description": "Fresh coffee and delicious cakes in an snug cafe. We're part of a larger chain of patisseries and cafes.",
+        "name": "Spanish Military Hospital Museum",
+        "phone": "+44 1717 17171"
+      }
+    }
+  ]
+}
