@@ -85,22 +85,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.799507, 35.584154
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "category": "store",
-        "hours": "10am - 6pm",
-        "description": "INSERT DANIELLE'S WEBSITE HERE",
-        "name": "Danielle Almeyda's Untitled Company",
-        "phone": "+44 5555 55555"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -80.311984, 25.725594
         ]
       },
@@ -159,22 +143,6 @@
         "description": "https://ncbirthcenter.org/boutique/",
         "name": "Women's Birth and Wellness Center Boutique",
         "phone": "+44 1010 101010"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.895006, 41.849697
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "category": "store",
-        "hours": "8am - 9:30pm",
-        "description": "INSERT ZORA'S WEBSITE HERE",
-        "name": "Zora Penafiel's Untitled Company",
-        "phone": "+44 1313 131313"
       }
     },
     {
