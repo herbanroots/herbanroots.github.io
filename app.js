@@ -157,9 +157,9 @@ function initMap() {
     //const phone = event.feature.getProperty('phone');
     const position = event.feature.getGeometry().get();
     const content = sanitizeHTML`
-      <img style="float:left; width:200px; margin-top:30px" src="img/logo_${category}.png">
-      <div style="margin-left:220px; margin-bottom:20px;">
-        <h2>${name}</h2><a href="${description}">${description}</a>
+      <img style="width:200px; margin-top:30px" src="img/logo_${category}.png">
+      <div style="margin-left:20px; margin-bottom:20px;">
+        <h3>${name}</h3><a href="${description}">${description}</a>
 
       </div>
     `;
