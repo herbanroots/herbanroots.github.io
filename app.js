@@ -152,15 +152,14 @@ function initMap() {
 
     const category = event.feature.getProperty('category');
     const name = event.feature.getProperty('name');
-    const description = event.feature.getProperty('description');
-    //const hours = event.feature.getProperty('hours');
-    //const phone = event.feature.getProperty('phone');
+    const website = event.feature.getProperty('website');
+    const city = event.feature.getProperty('city');
     const position = event.feature.getGeometry().get();
     const content = sanitizeHTML`
       <img style="width:200px; margin-top:30px" src="img/logo_${category}.png">
       <div style="margin-left:20px; margin-bottom:20px;">
-        <h3>${name}</h3><a href="${description}">${description}</a>
-
+        <h3>${name}</h3><a href="${website}">${website}</a>
+        <p>${city}</p>
       </div>
     `;
 
