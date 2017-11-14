@@ -158,8 +158,9 @@ function initMap() {
     const content = sanitizeHTML`
       <img style="width:200px; margin-top:30px" src="img/logo_${category}.png">
       <div style="margin-left:20px; margin-bottom:20px;">
-        <h3>${name}</h3><a href="${website}">${website}</a>
+        <h3>${name}</h3>
         <p>${city}</p>
+        <p><a href="${website}">${website}</a></p>
       </div>
     `;
 
