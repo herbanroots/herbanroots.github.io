@@ -11,10 +11,9 @@
       "type": "Feature",
       "properties": {
         "category": "store",
-        "hours": "10am - 6pm",
-        "description": "http://www.bouldercitysoap.com/",
-        "name": "Boulder City Soap & Candle Company",
-        "phone": "+44 20 1234 5678"
+        "city": "Boulder City, NV",
+        "website": "http://www.bouldercitysoap.com/",
+        "name": "Boulder City Soap & Candle Company"
       }
     },
     {
@@ -27,10 +26,9 @@
       "type": "Feature",
       "properties": {
         "category": "store",
-        "hours": "10am - 6pm",
-        "description": "https://vegansoapexchange.com/",
-        "name": "Vegan Soap Exchange",
-        "phone": "+44 117 121 2121"
+        "city": "Bushkill, PA",
+        "website": "https://vegansoapexchange.com/",
+        "name": "Vegan Soap Exchange"
       }
     },
     {
@@ -43,10 +41,9 @@
       "type": "Feature",
       "properties": {
         "category": "store",
-        "hours": "10am - 6pm",
-        "description": "https://www.facebook.com/silverwingessentials/",
-        "name": "Silver Wing Essentials",
-        "phone": "+44 1603 123456"
+        "city": "Greenville, SC",
+        "website": "https://www.facebook.com/silverwingessentials/",
+        "name": "Silver Wing Essentials"
       }
     },
     {
@@ -59,10 +56,9 @@
       "type": "Feature",
       "properties": {
         "category": "store",
-        "hours": "10am - 6pm",
-        "description": "http://www.intouchmassage.info/",
-        "name": "In Touch Massage",
-        "phone": "+44 1202 343434"
+        "city": "Schwenksville, PA",
+        "website": "http://www.intouchmassage.info/",
+        "name": "In Touch Massage"
       }
     },
     {
@@ -75,10 +71,9 @@
       "type": "Feature",
       "properties": {
         "category": "store",
-        "hours": "10am - 6pm",
-        "description": "http://www.wellspringorganicsalon.com/",
-        "name": "Wellspring Organic Salon",
-        "phone": "+44 151 444 4444"
+        "city": "Fuquay-Varina, NC",
+        "website": "http://www.wellspringorganicsalon.com/",
+        "name": "Wellspring Organic Salon"
       }
     },
     {
@@ -91,10 +86,9 @@
       "type": "Feature",
       "properties": {
         "category": "store",
-        "hours": "10am - 6pm",
-        "description": "http://www.soulllsoul.com/",
-        "name": "Soul II Soul",
-        "phone": "+44 29 6666 6666"
+        "city": "Miami, FL",
+        "website": "http://www.soulllsoul.com/",
+        "name": "Soul II Soul"
       }
     },
     {
@@ -107,10 +101,9 @@
       "type": "Feature",
       "properties": {
         "category": "store",
-        "hours": "8am - 9:30pm",
-        "description": "http://www.naturesbouquet.com/",
-        "name": "Nature's Bouquet Natural Soaps",
-        "phone": "+44 7777 777777"
+        "city": "Delran, NJ",
+        "website": "http://www.naturesbouquet.com/",
+        "name": "Nature's Bouquet Natural Soaps"
       }
     },
     {
@@ -123,10 +116,9 @@
       "type": "Feature",
       "properties": {
         "category": "store",
-        "hours": "8am - 9:30pm",
-        "description": "https://www.barenakedsoapco.com/",
-        "name": "Bare Naked Soap Company",
-        "phone": "+44 8888 88888"
+        "city": "Yuma, AZ",
+        "website": "https://www.barenakedsoapco.com/",
+        "name": "Bare Naked Soap Company"
       }
     },
     {
@@ -139,10 +131,9 @@
       "type": "Feature",
       "properties": {
         "category": "store",
-        "hours": "8am - 9:30pm",
-        "description": "https://ncbirthcenter.org/boutique/",
-        "name": "Women's Birth and Wellness Center Boutique",
-        "phone": "+44 1010 101010"
+        "city": "Chapel Hill, NC",
+        "website": "https://ncbirthcenter.org/boutique/",
+        "name": "Women's Birth and Wellness Center Boutique"
       }
     },
     {
@@ -155,10 +146,9 @@
       "type": "Feature",
       "properties": {
         "category": "store",
-        "hours": "8am - 9:30pm",
-        "description": "https://www.facebook.com/CoCoShea/",
-        "name": "Coco Shea",
-        "phone": "+44 1414 141414"
+        "city": "Grandview, MO",
+        "website": "https://www.facebook.com/CoCoShea/",
+        "name": "Coco Shea"
       }
     },
     {
@@ -171,10 +161,9 @@
       "type": "Feature",
       "properties": {
         "category": "store",
-        "hours": "8am - 9:30pm",
-        "description": "http://www.spanishmilitaryhospitalmuseum.com/",
-        "name": "Spanish Military Hospital Museum",
-        "phone": "+44 1717 17171"
+        "city": "St. Augustine, FL",
+        "website": "http://www.spanishmilitaryhospitalmuseum.com/",
+        "name": "Spanish Military Hospital Museum"
       }
     }
   ]
